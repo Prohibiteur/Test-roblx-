@@ -1,0 +1,24 @@
+{
+  "theme": "Dark",
+  "binds": {
+    "fly": "F",
+    "esp": "E",
+    "dupe": "D",
+    "teleport": "T",
+    "autofarm": "R"
+  },
+  "toggles": {
+    "autoSteal": true,
+    "noclip": false,
+    "fullbright": true,
+    "autofarm": false,
+    "antiban": true,
+    "visualeffects": true
+  },
+  "sliders": {
+    "jumpPower": 100,
+    "speed": 50,
+    "teleportRange": 500,
+    "farmDelay": 2
+  }
+}
